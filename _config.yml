@@ -37,7 +37,7 @@ sass:
   style: compressed
 
 lsi: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 permalink: :categories/:year-:month-:day/:title
 plugins: 
   - jekyll-org
